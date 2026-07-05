@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the associated manuscript and this repository."
+title: "DiabeticRetinopathy_XAI: Explainable five-class diabetic retinopathy grading artifact"
+authors:
+  - family-names: "Pervetica"
+    given-names: "Diellza"
+    affiliation: "University of Prishtina Hasan Prishtina"
+  - family-names: "Gashi"
+    given-names: "Fatjeta"
+    affiliation: "University of Prishtina Hasan Prishtina"
+repository-code: "https://github.com/DiellzaPervetica/Diabetic-Retinopathy-/tree/main/DiabeticRetinopathy_XAI"
+abstract: "Research artifact for a lightweight, reproducible, and explainable EfficientNetB0 pipeline for five-class diabetic retinopathy grading on APTOS 2019 fundus images."
+keywords:
+  - "diabetic retinopathy"
+  - "fundus images"
+  - "deep learning"
+  - "EfficientNetB0"
+  - "Grad-CAM"
+  - "explainable AI"
+  - "medical image analysis"
